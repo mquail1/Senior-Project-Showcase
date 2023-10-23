@@ -372,38 +372,14 @@
     <Reference Include="Unity.VisualScripting.YamlDotNet">
         <HintPath>C:\Program Files\Unity\Unity Projects\Senior Project Showcase\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll</HintPath>
     </Reference>
-    <Reference Include="TwitchLib.Api.Helix.Models">
-        <HintPath>C:\Program Files\Unity\Unity Projects\Senior Project Showcase\Assets\Plugins\TLIB\TwitchLib.Api.Helix.Models.dll</HintPath>
-    </Reference>
-    <Reference Include="TwitchLib.Client.Enums">
-        <HintPath>C:\Program Files\Unity\Unity Projects\Senior Project Showcase\Assets\Plugins\TLIB\TwitchLib.Client.Enums.dll</HintPath>
-    </Reference>
-    <Reference Include="TwitchLib.PubSub">
-        <HintPath>C:\Program Files\Unity\Unity Projects\Senior Project Showcase\Assets\Plugins\TLIB\TwitchLib.PubSub.dll</HintPath>
-    </Reference>
-    <Reference Include="TwitchLib.Api.Core.Enums">
-        <HintPath>C:\Program Files\Unity\Unity Projects\Senior Project Showcase\Assets\Plugins\TLIB\TwitchLib.Api.Core.Enums.dll</HintPath>
-    </Reference>
-    <Reference Include="TwitchLib.Client">
-        <HintPath>C:\Program Files\Unity\Unity Projects\Senior Project Showcase\Assets\Plugins\TLIB\TwitchLib.Client.dll</HintPath>
-    </Reference>
-    <Reference Include="SuperSocket.ClientEngine">
-        <HintPath>C:\Program Files\Unity\Unity Projects\Senior Project Showcase\Assets\SuperSocket.ClientEngine.dll</HintPath>
+    <Reference Include="StarterAssetsPackageChecker">
+        <HintPath>C:\Program Files\Unity\Unity Projects\Senior Project Showcase\Assets\StarterAssets\Editor\PackageChecker\StarterAssetsPackageChecker.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Plastic.Antlr3.Runtime">
         <HintPath>C:\Program Files\Unity\Unity Projects\Senior Project Showcase\Library\PackageCache\com.unity.collab-proxy@2.0.5\Lib\Editor\PlasticSCM\Unity.Plastic.Antlr3.Runtime.dll</HintPath>
     </Reference>
-    <Reference Include="TwitchLib.Client.Models">
-        <HintPath>C:\Program Files\Unity\Unity Projects\Senior Project Showcase\Assets\Plugins\TLIB\TwitchLib.Client.Models.dll</HintPath>
-    </Reference>
-    <Reference Include="TwitchLib.Api">
-        <HintPath>C:\Program Files\Unity\Unity Projects\Senior Project Showcase\Assets\Plugins\TLIB\TwitchLib.Api.dll</HintPath>
-    </Reference>
     <Reference Include="Unity.Plastic.Newtonsoft.Json">
         <HintPath>C:\Program Files\Unity\Unity Projects\Senior Project Showcase\Library\PackageCache\com.unity.collab-proxy@2.0.5\Lib\Editor\PlasticSCM\Unity.Plastic.Newtonsoft.Json.dll</HintPath>
-    </Reference>
-    <Reference Include="TwitchLib.Communication">
-        <HintPath>C:\Program Files\Unity\Unity Projects\Senior Project Showcase\Assets\Plugins\TLIB\TwitchLib.Communication.dll</HintPath>
     </Reference>
     <Reference Include="log4netPlastic">
         <HintPath>C:\Program Files\Unity\Unity Projects\Senior Project Showcase\Library\PackageCache\com.unity.collab-proxy@2.0.5\Lib\Editor\PlasticSCM\log4netPlastic.dll</HintPath>
@@ -411,47 +387,14 @@
     <Reference Include="Unity.VisualScripting.IonicZip">
         <HintPath>C:\Program Files\Unity\Unity Projects\Senior Project Showcase\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll</HintPath>
     </Reference>
-    <Reference Include="TwitchLib.Api.V5">
-        <HintPath>C:\Program Files\Unity\Unity Projects\Senior Project Showcase\Assets\Plugins\TLIB\TwitchLib.Api.V5.dll</HintPath>
-    </Reference>
-    <Reference Include="TwitchLib.Api.Core">
-        <HintPath>C:\Program Files\Unity\Unity Projects\Senior Project Showcase\Assets\Plugins\TLIB\TwitchLib.Api.Core.dll</HintPath>
-    </Reference>
-    <Reference Include="TwitchLib.Api.Core.Models">
-        <HintPath>C:\Program Files\Unity\Unity Projects\Senior Project Showcase\Assets\Plugins\TLIB\TwitchLib.Api.Core.Models.dll</HintPath>
-    </Reference>
     <Reference Include="Unity.VisualScripting.Antlr3.Runtime">
         <HintPath>C:\Program Files\Unity\Unity Projects\Senior Project Showcase\Library\PackageCache\com.unity.visualscripting@1.8.0\Runtime\VisualScripting.Flow\Dependencies\NCalc\Unity.VisualScripting.Antlr3.Runtime.dll</HintPath>
-    </Reference>
-    <Reference Include="Newtonsoft.Json">
-        <HintPath>C:\Program Files\Unity\Unity Projects\Senior Project Showcase\Assets\Plugins\TLIB\Newtonsoft.Json.dll</HintPath>
-    </Reference>
-    <Reference Include="WebSocket4Net">
-        <HintPath>C:\Program Files\Unity\Unity Projects\Senior Project Showcase\Assets\WebSocket4Net.dll</HintPath>
-    </Reference>
-    <Reference Include="Microsoft.Extensions.Logging.Abstractions">
-        <HintPath>C:\Program Files\Unity\Unity Projects\Senior Project Showcase\Assets\Plugins\TLIB\Microsoft.Extensions.Logging.Abstractions.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.TextureAssets">
         <HintPath>C:\Program Files\Unity\Unity Projects\Senior Project Showcase\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\EditorAssetResources\Unity.VisualScripting.TextureAssets.dll</HintPath>
     </Reference>
-    <Reference Include="TwitchLib.Api.Core.Interfaces">
-        <HintPath>C:\Program Files\Unity\Unity Projects\Senior Project Showcase\Assets\Plugins\TLIB\TwitchLib.Api.Core.Interfaces.dll</HintPath>
-    </Reference>
-    <Reference Include="TwitchLib.Api.Helix">
-        <HintPath>C:\Program Files\Unity\Unity Projects\Senior Project Showcase\Assets\Plugins\TLIB\TwitchLib.Api.Helix.dll</HintPath>
-    </Reference>
     <Reference Include="unityplastic">
         <HintPath>C:\Program Files\Unity\Unity Projects\Senior Project Showcase\Library\PackageCache\com.unity.collab-proxy@2.0.5\Lib\Editor\PlasticSCM\unityplastic.dll</HintPath>
-    </Reference>
-    <Reference Include="TwitchLib.Api.V5.Models">
-        <HintPath>C:\Program Files\Unity\Unity Projects\Senior Project Showcase\Assets\Plugins\TLIB\TwitchLib.Api.V5.Models.dll</HintPath>
-    </Reference>
-    <Reference Include="TwitchLib.Unity">
-        <HintPath>C:\Program Files\Unity\Unity Projects\Senior Project Showcase\Assets\Plugins\TLIB\TwitchLib.Unity.dll</HintPath>
-    </Reference>
-    <Reference Include="StarterAssetsPackageChecker">
-        <HintPath>C:\Program Files\Unity\Unity Projects\Senior Project Showcase\Assets\StarterAssets\Editor\PackageChecker\StarterAssetsPackageChecker.dll</HintPath>
     </Reference>
     <Reference Include="netstandard">
         <HintPath>C:\Program Files\Unity\2022.3.5f1\Editor\Data\NetStandard\ref\2.1.0\netstandard.dll</HintPath>
